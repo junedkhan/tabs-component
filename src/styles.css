@@ -1,0 +1,20 @@
+.tabs-header {
+  display: flex;
+}
+
+.tab {
+  border: 1px solid black;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.body-section {
+  padding: 10px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
